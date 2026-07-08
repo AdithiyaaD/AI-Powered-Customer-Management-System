@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Backend",
+    "\\Frontend",
+    "\\Frontend\\webui",
+    "\\Frontend\\webui\\src\\app\\features",
+    "\\Frontend\\webui\\src\\app\\features\\customers",
+    "\\Frontend\\webui\\src\\app\\features\\customers\\customer-list",
+    "\\Frontend\\webui\\src\\app\\models",
+    "\\Frontend\\webui\\src\\app\\services",
+    "\\Frontend\\webui\\src\\environments"
+  ],
+  "SelectedNode": "\\Backend\\WebApplication1\\WebApplication1\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
